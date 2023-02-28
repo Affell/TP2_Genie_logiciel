@@ -1,3 +1,5 @@
 Groupe TP8
 MALTERRE Clémence
 LENROUÉ Axel
+
+Ce fichier a été ajouté dans la branche mon_fichier et pas dans la branche master, après le commit le fichier n'est visible que dans la branche mon_fichier
