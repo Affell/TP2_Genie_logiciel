@@ -35,11 +35,13 @@ public class System_hospitalier {
 	
 	private String analyserRequete(Requête requête) {
 		// Analyser la requête
+		// Cette méthode va analyser les symptomes et le patient présent dans l'objet requete passé en parametre
 		return "requête analysée";
 	}
 	
 	private String comparerDonnes() {
 		// Comparaison des données
+		// cette méthode va analyser toutes les requetes présentes dans la liste listRequetes pour repérer des symptomes communs a tous les patients et en déduire la présence d'un cluster
 		return "Cluster trouvé";
 	}
 
